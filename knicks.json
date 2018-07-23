@@ -1,0 +1,14 @@
+{
+	"knicks": {
+		"Frank": {
+			"position": "point guard",
+			"born": "June 25th, 1998"
+			"years": "2" 
+		}
+    "Knox": { 
+      "position": "Small Forward",
+			"born": "May 19th, 1999"
+			"years": "1" 
+    }
+	}
+}
