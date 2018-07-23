@@ -1,6 +1,6 @@
 {
 	"knicks": {
-		"startingLineUp" : ["frank", "kevin", "porzi", "robinson", "THJ"],
+		"startingLineUp" : ["frank", " kevin", " porzi", " robinson", " THJ"],
 		"frank": {
 			"position": "point guard",
 			"born": "June 25th, 1998",
