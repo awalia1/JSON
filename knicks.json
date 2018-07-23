@@ -1,20 +1,30 @@
+// {
+// 	"knicks": {
+// 		"startingLineUp" : ["frank", " kevin", " porzi", " robinson", " THJ"],
+// 		"frank": {
+// 			"position": "point guard",
+// 			"born": "June 25th, 1998",
+// 			"years": "2"
+// 		},
+// 		"knox": {
+// 			"position": "small forward",
+// 			"born": "May 19th, 1999",
+// 			"years": "1"
+// 		},
+// 		"porzi": {
+// 			"position": "power forward",
+// 			"born": "April 5th, 1996",
+// 			"years": "4"
+// 		}
+// 	}
+// }
+
 {
-	"knicks": {
-		"startingLineUp" : ["frank", " kevin", " porzi", " robinson", " THJ"],
-		"frank": {
-			"position": "point guard",
-			"born": "June 25th, 1998",
-			"years": "2"
-		},
-		"knox": {
-			"position": "small forward",
-			"born": "May 19th, 1999",
-			"years": "1"
-		},
-		"porzi": {
-			"position": "power forward",
-			"born": "April 5th, 1996",
-			"years": "4"
-		}
-	}
-}
+ "fridge": {
+   "eggCarton": {
+       "eggOne": "chicken",
+       "eggTwo": "turkey",
+        "eggThree": "duck"
+      }
+   }
+ }
