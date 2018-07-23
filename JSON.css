@@ -1,0 +1,19 @@
+.levels {
+	margin: 20px 0px;
+}
+.hidden {
+	display:none;
+}
+
+.alert-primary {
+	background-color: orange;
+}
+
+.jumbotron-fluid {
+	color: white;
+	background-color: orange;
+}
+
+.questions-section {
+	text-align: center;
+}
